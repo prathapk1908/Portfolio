@@ -27,7 +27,7 @@ export default function Project(){
         <div className="w-full">
         <div className="flex flex-col px-11 text-center py-5">
                   <h1 className='text-4xl  text-violet-800 font-bold  mb-5 '>Project</h1>
-                  <p className='font-hero-font '> These are some of my best project. i have build this react, tailwindcss</p>
+                  <p className='font-hero-font '> These are some of my best project. i have build this react, tailwindcss, django</p>
             </div>
         </div>
     
