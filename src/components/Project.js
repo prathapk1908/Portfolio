@@ -7,7 +7,7 @@ export default function Project(){
         projects:[
             {
                 Image:EcommerceWebisteImg1,
-                description:'A Ecommerce website build with django',
+                description:'A Ecommerce website build with react',
                 Link:''
             },
             {
