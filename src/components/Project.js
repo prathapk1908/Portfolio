@@ -1,5 +1,7 @@
 import EcommerceWebisteImg1 from '../assests/ecomerce.jpg';
-import LoginAuthontication from '../assests/home.webp';
+import flipkart from '../assests/flipkart.png';
+import login from '../assests/login.png'
+
 
 export default function Project(){
 
@@ -11,13 +13,13 @@ export default function Project(){
                 Link:'https://prathapk1908.github.io/Online-pharmacy/'
             },
             {
-                Image:LoginAuthontication,
-                description:'User Login Authontication',
-                Link:''
+                Image:flipkart,
+                description:'Flipkart Clone',
+                Link:'https://github.com/prathapk1908/FlipKart.git'
             },
             {
-                Image:EcommerceWebisteImg1,
-                description:'to do list',
+                Image:login,
+                description:'Login Page',
                 Link:''
             },
 
